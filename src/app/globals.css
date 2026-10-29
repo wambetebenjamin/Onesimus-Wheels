@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@source "../components";
+@source ".";
+@font-face{font-family:'Poppins';src:url('/fonts/poppins-400.woff2') format('woff2');font-style:normal;font-weight:400;font-display:swap}
+@font-face{font-family:'Poppins';src:url('/fonts/poppins-700.woff2') format('woff2');font-style:normal;font-weight:700;font-display:swap}
+@font-face{font-family:'Raleway';src:url('/fonts/raleway-400.woff2') format('woff2');font-style:normal;font-weight:400;font-display:swap}
+@font-face{font-family:'Raleway';src:url('/fonts/raleway-700.woff2') format('woff2');font-style:normal;font-weight:700;font-display:swap}
+@font-face{font-family:'Raleway ExtraBold';src:url('/fonts/raleway-800.woff2') format('woff2');font-style:normal;font-weight:800;font-display:swap}
+:root{--template-teal:#325662;--template-deep:#274d5a;--template-section:#355764;--template-accent:#f7c17b;--template-ink:#111111;--template-muted:#666666}
